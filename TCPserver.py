@@ -1,4 +1,4 @@
-from http.server import BaseHTTPRequestHandler, SimpleHTTPRequestHandler
+from http.server import SimpleHTTPRequestHandler
 import socketserver
 import argparse
 
